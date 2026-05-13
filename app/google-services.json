@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639054069077",
+    "project_id": "kabaddiarena-eaca6",
+    "storage_bucket": "kabaddiarena-eaca6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639054069077:android:2e18629b33c0a23fa543dc",
+        "android_client_info": {
+          "package_name": "com.example.kabaddiarena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbfkueSCig5eXYa7a3AsHJKPHhJV-KeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
